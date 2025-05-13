@@ -1,0 +1,14 @@
+CREATE DATABASE musicdb;
+
+USE musicdb;
+
+CREATE TABLE songs (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name TEXT,
+    Band TEXT,
+    IndexAlbum INT,
+    Key TEXT
+);
+
+INSERT INTO songs (Name, Band, IndexAlbum, Key) 
+VALUES ('Videotape', 'Radiohead', 10, 'A');

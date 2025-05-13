@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|c:\\users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B168C57A-4B5C-444B-A30A-22A4597D3B42}|music-backend-asp\\music-backend-asp.csproj|solutionrelative:music-backend-asp\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "music-backend-asp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "music-backend-asp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T07:14:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "music-backend-asp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\appsettings.Development.json",
+              "RelativeToolTip": "music-backend-asp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T07:13:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "music-backend-asp\\Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Controllers\\SongController.cs",
+              "RelativeToolTip": "music-backend-asp\\Controllers\\SongController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv4UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:07:05.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicContext.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\MusicContext.cs",
+              "RelativeDocumentMoniker": "music-backend-asp\\MusicContext.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\MusicContext.cs",
+              "RelativeToolTip": "music-backend-asp\\MusicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:05:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "music-backend-asp\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Models\\Song.cs",
+              "RelativeToolTip": "music-backend-asp\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:04:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\appsettings.json",
+              "RelativeDocumentMoniker": "music-backend-asp\\appsettings.json",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\appsettings.json",
+              "RelativeToolTip": "music-backend-asp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T07:03:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Program.cs",
+              "RelativeDocumentMoniker": "music-backend-asp\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\Program.cs*",
+              "RelativeToolTip": "music-backend-asp\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:00:12.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
